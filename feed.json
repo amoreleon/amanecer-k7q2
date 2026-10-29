@@ -1,9 +1,9 @@
 [
   {
-    "uid": "urn:uuid:ccbc27ae-43b0-4c42-85d7-09de0e04cf9a",
-    "updateDate": "2026-10-28T18:57:53Z",
-    "titleText": "Briefing de Jarvis · prueba",
-    "mainText": "Hola Alex, soy Jarvis. Esta es una prueba de conexión. Si me estás escuchando, el briefing de voz ya funciona. A partir de mañana, a las siete, aquí vas a escuchar tus prioridades del día, tus juntas y lo que viene en la semana.",
+    "uid": "urn:uuid:e4d8f2c3-7582-436c-820d-fede7dc77390",
+    "updateDate": "2026-10-29T12:34:35Z",
+    "titleText": "Briefing de Jarvis · jueves 29 de octubre",
+    "mainText": "Buenos días Alex. Hoy es jueves 29 de octubre. Tus tres prioridades. Primero, cerrar el baseline de SLA y métricas para Aaron; ya está vencido y la idea es que las nuevas SLAs arranquen el lunes. Segundo, mandar a REDA el correo con los cambios del contrato y el estatus de pendientes, antes de la sesión de adopción de mañana a las seis y media. Tercero, darle a Lakshmi la respuesta sobre la creación de cuentas, para que libere sus tickets. Tu agenda. De ocho a diez para las diez tienes el evento de Andantes, que choca con el CEO Chat Follow-Up de las ocho y media y con el S and E Team Meeting. Lo familiar va primero, así que considera mover el CEO Chat y dejar a Javier al frente del S and E. A las diez, uno a uno con Swathi. A las diez y media, CPQ Review. A las once, tu primer uno a uno con Javier; lleva la lista de permisos para el perfil de soporte. Y alrededor de las doce y media, Media Approval Process. En el radar: mañana viernes, sesión de adopción con Hasta Capital a las seis y media, tu cita del INE a las diez y media, y el primer curso de inteligencia artificial con El Jalysteco a las once. Eso es todo por hoy. Que tengas un gran día.",
     "redirectionUrl": "https://claude.ai/artifact/P1KMS7TzgkvBHRMAZpK74A"
   }
 ]
